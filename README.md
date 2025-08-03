@@ -11,10 +11,3 @@ I'm Ranya B R Kumar, a passionate DevOps Engineer from India.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love scripting and automating everyday tasks!
 
-## 📈 GitHub Stats
-
-![Ranya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
-
-<!--
-**ranyabrkumar/ranyabrkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
